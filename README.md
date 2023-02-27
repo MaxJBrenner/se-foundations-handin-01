@@ -3,24 +3,23 @@
 ## Name
 AIForSchool.com
 
-
 # MVP GOALS
-- user can **see submited** AI tools
-- user can **submit** new AI tools
-- have authentication
-- furfill the SEO standards (e.g. H1 Headline)
+- User can **see submited** AI tools
+- User can **submit** new AI tools
+- Have authentication
+- Furfill the SEO standards
 ## Maybe Goals
 - rating relevance on a scale of 1-5
 
 
 # 1. Hand-In
 ## Build
-- overview page (styled - see figma)
-- Three pages for individual pages for tools
-- submit "New Tool" button -> google forms link
-- responsive design for 3 screen sizes
+- Overview page (styled - see figma)
+- Six pages for individual pages for tools
+- Submit "New Tool" button -> google forms link
+- Responsive design for 3 screen sizes
 
-## Recuirements
+### Recuirements
 At a minimum, your hand-in should meet the following criteria:
 
 - Contain a README.md file with a brief description of the project
