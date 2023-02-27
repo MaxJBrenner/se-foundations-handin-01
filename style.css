@@ -1,0 +1,33 @@
+* {
+    font-family: Outfit;
+  }
+
+
+h1 {
+    color: black;
+    font-family: Outfit;
+    text-align:center;
+}
+
+h2 {
+    color: gray;
+    font-family: Outfit;
+}
+
+p {
+    font-family: Outfit;
+    text-align:center;
+}
+
+.title {
+    color: black;
+    font-family: Outfit;
+  }
+  
+.uppercase {
+    text-transform: uppercase;
+  }
+
+.textCenter {
+    text-align:center;
+}
